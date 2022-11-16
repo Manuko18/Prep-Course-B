@@ -2,10 +2,10 @@
 // Todo tu código irá dentro de las llaves de la función.
 // Asegúrate que usas "return" cuando la consola te lo pida.
 // Pista: "console.log()" NO fucionará.
-// No cambies los nombres de las funciones.
+// No cambies los nombres de las funciones. hola mundo
 
 function devolverString(str) {
-    // "Return" la string provista: str
+    // "Return" la string provista: str 
     // Tu código:
   }
   
